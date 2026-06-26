@@ -28,7 +28,6 @@ class Qwen2_5_VisionTransformerPretrainedModelCodec(Qwen2_5_VisionTransformerPre
         self.codec_classes = codec_types * rd_points
         codec_ebmed_dim = 40
 
-        # 这里注意一下, 看一下embed_dim到底应该多少
         self.codec_emb = TimestepEmbedding(
             self.codec_classes, 
             codec_ebmed_dim,
