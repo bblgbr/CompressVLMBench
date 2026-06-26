@@ -4,7 +4,7 @@
 
 ### **ICML 2026**
 
-<!-- [Project Page](https://logosroboticsgroup.github.io/MoLA) | [Paper](https://arxiv.org/abs/2605.12167) | [Checkpoints](https://huggingface.co/LeeLiaoLiao/MoLA-ckpt) -->
+[Paper](https://arxiv.org/abs/2512.20901)
 
 Zifu Zhang, Tongda Xu, Siqi Li, Shengxi Li, Yue Zhang, Mai Xu, Yan Wang
 
