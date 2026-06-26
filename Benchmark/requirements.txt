@@ -1,0 +1,13 @@
+certifi==2026.2.25
+charset-normalizer==3.4.6
+idna==3.11
+invisible-watermark==0.2.0
+nvitop==1.6.1
+packaging @ file:///home/task_176104877067765/conda-bld/packaging_1761049113113/work
+prettytable==3.17.0
+pyasn1==0.6.3
+requests==2.32.5
+rsa==4.9.1
+tqdm==4.67.3
+urllib3==2.6.3
+wcwidth==0.6.0
